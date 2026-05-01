@@ -1,7 +1,5 @@
-```txt
 streamlit
 opencv-python-headless
-tensorflow
 ultralytics
 numpy
 pandas
@@ -9,5 +7,4 @@ plotly
 reportlab
 streamlit-authenticator
 streamlit-webrtc
-pillow
-```
+av
